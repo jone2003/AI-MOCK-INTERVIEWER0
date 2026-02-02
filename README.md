@@ -3,7 +3,7 @@ Welcome to AI Interview Mocker, an innovative platform designed to help you ace 
 
 🚀 Key Features:
 ✨ User-Friendly Interface: Sign in or sign up effortlessly through our landing page.
-📊 Dashboard: Manage and track all your mock interviews in one place.
+📊 Dashboard: Manage and track all your mock interviews in one place. 
 📝 Custom Interview Setup: Add new interviews with detailed job descriptions.
 💡 AI-Generated Questions: Get 5 custom-tailored interview questions based on your inputs.
 🎙️ Interactive Interview Process: View questions, choose to read or listen, and begin your mock interview.

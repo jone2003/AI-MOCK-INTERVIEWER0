@@ -1,8 +1,0 @@
-{
-    "$schema": "https://openapi.vercel.sh/vercel.json",
-    "buildCommand": "cd my-mock && npm run build",
-    "devCommand": "cd my-mock && npm run dev",
-    "installCommand": "cd my-mock && npm install",
-    "framework": null,
-    "outputDirectory": "my-mock/.next"
-}
